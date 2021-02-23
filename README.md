@@ -1,1 +1,1 @@
-This is Chime's first ever git ..
+This is Chime's first ever git project..
